@@ -3,8 +3,8 @@ My name is Jasmine Chen. I am currently a Master of Arts student at Columbia Uni
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://github.com/jasminechen122/dsjourney/blob/main/image/Linkedin.png
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://www.linkedin.com/in/jasmine-chen0122/
