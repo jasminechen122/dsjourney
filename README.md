@@ -3,7 +3,7 @@ My name is Jasmine Chen. I am currently a Master of Arts student at Columbia Uni
 
 <!-- Icons -->
 
-[1.2]: https://github.com/jasminechen122/dsjourney/blob/main/image/Linkedin.png
+[1.2]: https://github.com/jasminechen122/dsjourney/blob/main/image/Linkedin.png | width=100
 
 <!-- Links to your social media accounts -->
 
